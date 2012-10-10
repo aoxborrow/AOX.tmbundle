@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>name</key>
+	<string>AOX</string>
+	<key>ordering</key>
+	<array>
+		<string>597E08BD-783E-47D6-8961-61EE3D387EE8</string>
+	</array>
+	<key>uuid</key>
+	<string>EA5AA62A-18DD-47D1-8A2F-EE091BBF45B2</string>
+	<key>description</key>
+	<string>My Textmate themes and tools.</string>
+</dict>
+</plist>

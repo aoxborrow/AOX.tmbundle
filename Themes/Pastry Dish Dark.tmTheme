@@ -308,11 +308,11 @@
 			<key>name</key>
 			<string>Invalid trailing whitespace</string>
 			<key>scope</key>
-			<string>invalid.trailing-whitespace</string>
+			<string>invalid.trailing-whitespace, invalid.illegal.whitespace.trailing, invalid.illegal.whitespace.mixed</string>
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#CCCCCC</string>
+				<string>#333333</string>
 			</dict>
 		</dict>
 		<dict>

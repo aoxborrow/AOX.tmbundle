@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;?php echo __("$TM_SELECTED_TEXT", null, 'i18n-dict'); ?&gt;</string>
+	<key>keyEquivalent</key>
+	<string></string>
+	<key>name</key>
+	<string>__(i18n, AP) String</string>
+	<key>uuid</key>
+	<string>81538960-EB88-4C51-A45A-30F3B946FC66</string>
+</dict>
+</plist>

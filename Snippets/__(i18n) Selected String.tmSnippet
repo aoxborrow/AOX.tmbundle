@@ -2,12 +2,13 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>keyEquivalent</key>
-	<string>~@i</string>
-	<key>name</key>
-	<string>__(i18n) Selected String</string>
-	<key>content</key>
-	<string>&lt;?php echo __(&quot;$TM_SELECTED_TEXT&quot;, null, &apos;i18n-dict&apos;); ?&gt;</string>
+	<key>changed</key>
+	<dict>
+		<key>keyEquivalent</key>
+		<string>^~i</string>
+	</dict>
+	<key>isDelta</key>
+	<true/>
 	<key>uuid</key>
 	<string>912906A0-9A29-434B-AE98-E9DFDE6E48B4</string>
 </dict>
